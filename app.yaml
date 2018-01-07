@@ -1,0 +1,27 @@
+application: first-management
+version: alpha-001
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /
+  script: index.php
+
+- url: /css
+  static_dir: css
+
+- url: /js
+  static_dir: js
+
+- url: /font
+  static_dir: font
+
+- url: /img
+  static_dir: img
+
+- url: /sass
+  static_dir: sass
+
+- url: /(.*\.(gif|png|jpg))$
+  static_files: static/\1
+  upload: static/.*\.(gif|png|jpg)$

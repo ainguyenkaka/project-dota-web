@@ -1,0 +1,28 @@
+{
+  "map" : [
+    {
+      "des" : "- Exploit fix\n- Exploit fix",
+      "img" : "dota_6.83d.jpg",
+      "name" : "DOTA 6.83d",
+      "url" : "http://media.playdota.com/maps/eng/DotA%20v6.83d.w3x"
+    },
+   {
+      "des" : "- Exploit fix\n- Exploit fix",
+      "img" : "dota_v6.85g_lod.jpg",
+      "name" : "DOTA 6.85g LOD",
+      "url" : "http://www.game2g.com/forum/dota/dota-6-85h-lod-download/?action=dlattach;attach=221"
+    },
+    {
+      "des" : "- Exploit fix\n- Exploit fix",
+      "img" : "dota-imba-map.jpg",
+      "name" : "DOTA IMBA 3.86b",
+      "url" : "http://warcraft.gamewebz.com/wp-content/uploads/12095/IMBA_386b_AI_EN.w3x"
+    },
+    {
+      "des" : "- Exploit fix\n- Exploit fix",
+      "img" : "dota-6.86-ai.jpg",
+      "name" : "DOTA 6.86 AI",
+      "url" : "http://download616.mediafire.com/69a4jwirtx8g/5t2wodcvxidhf9d/Game2e.com+Dota+6.86+AI.zip"
+    }
+  ]
+}
